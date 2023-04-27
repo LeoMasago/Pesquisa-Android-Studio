@@ -43,10 +43,17 @@ Quando o aplicativo é executado sem a internet, aparece a mesma interface poré
 
 
 Elementos utilizados no android studio :
+
 Para fazer listas é utilizado ListView.
+
 Para fazer botão é utilizado Button.
+
 Para adicionar textos é utilizado TextView.
+
 Para colocar imagem é necessário ImageView. 
+
+
+
 
 
 Kwai - A aplicação apresenta 10 botões na sua tela principal, sendo cinco na lateral direita e cinco na parte inferior. Além disso, há uma lista de vídeos que pode ser interagida ao tocar e arrastar para cima e para baixo.
@@ -80,8 +87,13 @@ Kwai - A aplicação apresenta 10 botões na sua tela principal, sendo cinco na 
   16º - Na tela principal, encontramos um botão em forma de lupa que nos encaminha para a tela de pesquisa do app. Essa tela possui uma caixa de texto para pesquisar e uma lista com os assuntos mais pesquisados no momento.
 
 Elementos no android studio:
+
 Para fazer listas, é utilizado ListView. 
+
 Para fazer botões, é utilizado Button. 
-Para adicionar textos, é utilizado TextView. 
+
+Para adicionar textos, é utilizado TextView.
+
 Para colocar imagens, é necessário ImageView. 
+
 Para adicionar caixas de texto, é utilizado TextBox.
