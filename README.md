@@ -82,9 +82,9 @@ Kwai - A aplicação apresenta 10 botões na sua tela principal, sendo cinco na 
 
    Ao lado, há o botão de seguir(12º), caso você não acompanhe esse perfil, e o botão de dueto(13º), que dá a possibilidade de duetar ou responder aquele vídeo.
    
-   Na parte superior da tela, há dois botões que funcionam como abas: o "Para você"(14º), que mostra a lista de vídeos direcionados ao seu perfil, e o "Seguindo"(15º), que filtra vídeos dos perfis que você segue. Na lista "Seguindo", há a adição de dois botões, um para direcionar a playlist de vídeos e outro para prosseguir o episódio, caso exista.
+   Na parte superior da tela, há dois botões que funcionam como abas: o "Para você"(14º), que mostra a lista de vídeos direcionados ao seu perfil, e o "Seguindo"(15º), que filtra vídeos dos perfis que você segue. Na lista "Seguindo", há a adição de dois botões, um para direcionar a playlist de vídeos e outro para prosseguir o episódio, caso exista. Também encontramos o botão "Lives"(16º), que direciona a uma lista de vídeos ao vivo.
 
-  16º - Na tela principal, encontramos um botão em forma de lupa que nos encaminha para a tela de pesquisa do app. Essa tela possui uma caixa de texto para pesquisar e uma lista com os assuntos mais pesquisados no momento.
+  17º - Na tela principal, encontramos um botão em forma de lupa que nos encaminha para a tela de pesquisa do app. Essa tela possui uma caixa de texto para pesquisar e uma lista com os assuntos mais pesquisados no momento.
 
 Elementos no android studio:
 
