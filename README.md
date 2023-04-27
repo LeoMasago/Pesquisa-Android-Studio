@@ -11,7 +11,7 @@ Alunos : Léo Kenzo e Bruno Lima
 
 Tiktok – Na tela existem 10 botões primeiramente e uma lista de vídeos que conforme for arrastando para baixo, ele muda de vídeo.
 
-1º - Começando um botão no canto inferior direito com ícone de casa para a tela inicial com a finalidade de direcionar o usuário até a tela inicial, ou, se pressionado duas vezes, ele atualiza o conteúdo.
+1º - Começando um botão no canto inferior esquerdo com ícone de casa para a tela inicial com a finalidade de direcionar o usuário até a tela inicial, ou, se pressionado duas vezes, ele atualiza o conteúdo.
 
 2º - Logo ao lado, existe um botão com ícone de duas pessoas que quando pressionado te direciona a uma lista de vídeos das pessoas que te seguem postaram.
 
