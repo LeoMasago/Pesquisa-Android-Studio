@@ -107,6 +107,8 @@ Para adicionar caixas de texto, é utilizado TextBox.
 
 Likee - Com uma interface semelhante ao Tiktok, o Likee apresenta as mesmas características do concorrente, com uma difernça de dois botões adicionais o de "Superlike" na lateral e o de perfil ao lado do nome.
 
+![likee](https://user-images.githubusercontent.com/101648676/235266597-537dc338-e24d-4250-a32e-7c0026739621.png)
+
 1° - Nos botões laterais, começamos com o botão de "Superlike", ao ser acionado tem a função conjunta de seguir o perfil e curtir o vídeo.
 
 2° - O botão de like que curte o vídeo e altera sua cor ao ser acionado, além de contar as curtidas.
