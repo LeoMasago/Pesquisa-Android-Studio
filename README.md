@@ -91,7 +91,7 @@ Kwai - A aplicação apresenta 10 botões na sua tela principal, sendo cinco na 
 
   17º - Na tela principal, encontramos um botão em forma de lupa que nos encaminha para a tela de pesquisa do app. Essa tela possui uma caixa de texto para pesquisar e uma lista com os assuntos mais pesquisados no momento.
   
-  Caso não há conexão com internet, o aplicativo aprensetará um botão de "tente novamente" se referindo a conexão wifi e não irá mostrar os vídeos até a mesma ser restabelecida.
+  Caso não há conexão com internet, o aplicativo aprensetará um botão de "toque e tente novamente" se referindo a conexão wifi e não irá mostrar os vídeos até a mesma ser restabelecida, junto também é mostrado o botão "soluções" para auxiliar a resolver o problema de conexão.
 
 Elementos no android studio:
 
@@ -107,7 +107,7 @@ Para adicionar caixas de texto, é utilizado TextBox.
 
 Likee - Com uma interface semelhante ao Tiktok, o Likee apresenta as mesmas características do concorrente, com uma difernça de dois botões adicionais o de "Superlike" na lateral e o de perfil ao lado do nome.
 
-1° - Nos botões laterais, começamos com o botão de "Superlike"
+1° - Nos botões laterais, começamos com o botão de "Superlike", ao ser acionado tem a função conjunta de seguir o perfil e curtir o vídeo.
 
 2° - O botão de like que curte o vídeo e altera sua cor ao ser acionado, além de contar as curtidas.
 
@@ -141,6 +141,8 @@ perfil, carteira, configurações, controle parental e etc.
 18° - A lupa no canto superior esquerdo te leva a página de conteúdos mais buscados e te fornece o buscador do app.
 
 19° Por último, as hashtags e nome do perfil também são acionados ao clicar, hashtags te levam a vídeos do relacionados e o nome do perfil para a página do criador dele.
+
+Ao utilizar o app offline, é mostrado o botão "tente novamente" para se restabelecer a conexão.
 
 Elementos no android studio:
 
