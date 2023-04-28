@@ -97,3 +97,9 @@ Para adicionar textos, é utilizado TextView.
 Para colocar imagens, é necessário ImageView. 
 
 Para adicionar caixas de texto, é utilizado TextBox.
+
+Likee - Com uma interface semelhante ao Tiktok, o Likee apresenta as mesmas características do concorrente, com uma difernça de dois botões adicionais o de "Superlike" na lateral e o de perfil ao lado do nome.
+
+1° - Nos botões laterais, começamos com o botão de "Superlike"
+
+2° - o botão de like que curti o vídeo e altera sua cor ao ser acionado, além de contar as curtidas.
