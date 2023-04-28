@@ -11,6 +11,8 @@ Alunos : Léo Kenzo e Bruno Lima
 
 Tiktok – Na tela existem 10 botões primeiramente e uma lista de vídeos que conforme for arrastando para baixo, ele muda de vídeo.
 
+![image](https://user-images.githubusercontent.com/101648676/235167591-f12290e5-768b-4fd1-8c20-34dcf3f32898.png)
+
 1º - Começando um botão no canto inferior esquerdo com ícone de casa para a tela inicial com a finalidade de direcionar o usuário até a tela inicial, ou, se pressionado duas vezes, ele atualiza o conteúdo.
 
 2º - Logo ao lado, existe um botão com ícone de duas pessoas que quando pressionado te direciona a uma lista de vídeos das pessoas que te seguem postaram.
@@ -58,6 +60,9 @@ Para colocar imagem é necessário ImageView.
 
 Kwai - A aplicação apresenta 10 botões na sua tela principal, sendo cinco na lateral direita e cinco na parte inferior. Além disso, há uma lista de vídeos que pode ser interagida ao tocar e arrastar para cima e para baixo.
 
+![image](https://user-images.githubusercontent.com/101648676/235168158-0ac7da1d-f1ea-4ead-b471-30a8948be3f6.png)
+
+
  1º - Começando pelos botões laterais, o primeiro em forma de coração altera sua cor ao ser acionado e possui um contador de curtidas abaixo dele.
 
  2º - Logo após, temos um botão em forma de balão que nos leva à lista de comentários, que possui uma caixa de texto para digitarmos um comentário.
@@ -102,4 +107,28 @@ Likee - Com uma interface semelhante ao Tiktok, o Likee apresenta as mesmas cara
 
 1° - Nos botões laterais, começamos com o botão de "Superlike"
 
-2° - o botão de like que curti o vídeo e altera sua cor ao ser acionado, além de contar as curtidas.
+2° - O botão de like que curte o vídeo e altera sua cor ao ser acionado, além de contar as curtidas.
+
+3° - Abaixo o botão de comentários, que conta a quantidade de comentários e nos dá acesso a lista de comentários, onde você também pode comentar.
+
+4° - O próximo botão da lateral é o de compartilhamento e salvamento do vídeo, ele possui um formato de seta.
+
+5° - OLHAR EM CASA
+
+6° - Por último na lateral, o botão de áudio que mostra o utilizado no vídeo e outros conteúdos que utilizaram do mesmo.
+
+7° - Introduzindo os botões da parte inferior da tela, começaçamos com o "Home" que nos leva a tela inicial e atualiza página se for clicado na mesma.
+
+8° - O ícone de duas pessoas, nos coloca em uma lista de vídeos de amigos adicionados.
+
+9° - O botão central tem função de fazer upload ou criação de vídeos na plataforma.
+
+10° - Com um formato de balão, o botão de notificações nos introduz ao chat privado e mensagens do app.
+
+11° - Por último, o botão que nos leva ao nosso perfil, onde podemos editar, acompanhar os vídeos publicados e curtidos, seus seguidores e quem você segue.
+
+12° - Existe um botão que dá acesso ao perfil do criador do vídeo, ele fica localizado acima das legendas e hashtags.
+
+
+
+
